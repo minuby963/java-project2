@@ -20,7 +20,7 @@ public class PointPosition {
 	public int getPosX(){
 		return posX;
 	}
-	
+
 	public int getPosY(){
 		return posY;
 	}
