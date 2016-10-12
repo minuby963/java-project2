@@ -27,7 +27,6 @@ public class Individual {
 	public void setCondition(Condition con){
 		this.condition = new Condition(con);
 	}
-	
 	@Override
 	public String toString(){
 		return "POINT: \n"+position.toString()+"age: "+age+"\n"+condition.toString();
