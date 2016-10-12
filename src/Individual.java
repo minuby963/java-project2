@@ -17,8 +17,8 @@ public class Individual {
 		setPosition(position);
 		setAge(age);
 		setCondition(con);
-	}
-
+	} 
+	
 	public void setPosition(PointPosition pos){
 		this.position = pos;
 	}
