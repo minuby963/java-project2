@@ -6,7 +6,6 @@ public class Condition {
 	 * 2 - starved
 	 * 
 	 * 
-	 * 
 	 */
 	public Condition(){
 		condition = 1;
