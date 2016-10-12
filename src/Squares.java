@@ -2,8 +2,10 @@
 public class Squares {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		
+		Individual specimen = new Individual(new PointPosition(10, 10));
+		System.out.println(specimen);
+		
 	}
 
 }
