@@ -28,6 +28,9 @@ public class Individual {
 	public void setCondition(Condition con){
 		this.condition = new Condition(con);
 	}
+	public void updateAge(){
+		age = age+1;
+	}
 	
 	@Override
 	public String toString(){
